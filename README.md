@@ -1,8 +1,5 @@
 # Classiying_News_with_PyTorch_and_GLoVE_Embeddings
 
-
-# PyTorch Text Classification using Embeddings
-
 This repository contains code for a simple text classification task using PyTorch and pre-trained word embeddings. We train a neural network classifier to classify news articles into one of four categories: World, Sports, Business, and Sci/Tech.
 
 ## Overview
